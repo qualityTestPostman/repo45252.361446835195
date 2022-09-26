@@ -1,0 +1,16 @@
+id = 1f626f3b-9da4-4253-93af-190761ba3d59
+
+[relations]
+
+[relations.collections]
+rootDirectory = postman/collections
+files[] = {"id":"827030-33486352-1d23-47ab-805c-62112c54fd13","path":"fwef.json","metaData":{}}
+
+[relations.collections.metaData]
+
+[relations.apiDefinition]
+rootDirectory = postman/schemas
+files[] = {"path":"index.yaml","metaData":{}}
+
+[relations.apiDefinition.metaData]
+type = openapi:3
